@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="80dp"/>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:src="@drawable/donar"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#070707"
+        android:text="                      FACTS"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#DA033F"
+        android:text="1. You are never too young or too old for organ donation."/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="8dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#DA033F"
+        android:text="2. Post your death you can donate only your liver,lungs,heart,kidney, pancreas and small intestine, but also your skin, corneas, bone tissue including tendons and cartilage,heart valves and blood vessels."/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="8dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#DA033F"
+        android:text="3. Even if have a medical history, you can still be an organ donar."/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="8dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#DA033F"
+        android:text="4. It's a myth that if you are a organ donor and get admitted to a hospital  for treatment, doctor will not save your life."/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="8dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#DA033F"
+        android:text="5. There are some organs which can be donated while you are alive.The most common once being kidney."/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="8dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#DA033F"
+        android:text="6. In case of living donors, it is true that their are some complications associated with all major surgeries, such as infection, blood clot and pain. "/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="8dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#DA033F"
+        android:text="7. Donation does not disfigure the donor's body."/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#DA033F"
+        android:text="8. Most religions support organ donation and hold a positive opinion about it. "/>
+</LinearLayout>
